@@ -1,56 +1,98 @@
-<!-- Заголовок с акцентом на цель -->
+<!-- Заголовок с акцентом на навыки и ценность -->
 <h1 align="center">Привет, я Антон 👋</h1>
-<h3 align="center">Junior Python разработчик в поиске команды и интересных задач</h3>
+<h3 align="center">Python Developer | FastAPI • SQLAlchemy • Automation</h3>
+<p align="center"><i>Инженер, автоматизирующий процессы через код. Открыт к предложениям.</i></p>
 
 <br>
 
-<!-- Короткое и ясное представление -->
+<!-- О себе: гибридный профиль как преимущество -->
 ## 🔭 О себе
 
-Я начинающий Python-разработчик, который перешел в IT из другой сферы. Мой путь — это постоянное обучение, написание кода и решение реальных задач. Сейчас я в активном поиске работы, где смогу применить свои знания, расти как профессионал и создавать полезные продукты.
+Инженер с опытом работы в сфере испытаний, который развивает навыки Python-разработки. 
+Сочетаю понимание предметной области (оборудование, данные, автоматизация) с умением 
+писать чистый, поддерживаемый код на современных стеках.
 
-- 🌱 Углубляю **Python**, осваиваю **FastAPI**, **SQLAlchemy**, работаю с базами данных.
-- 👯 Открыт для совместных Open Source проектов и стажировок.
-- 📫 Как со мной связаться: *[укажите Telegram/почту, если готовы публиковать]*.
-- ⚡ Факт: постоянно обновляю свои репозитории — от Telegram-ботов до учебных игр.
+- 🛠 Пишу бэкенд на **FastAPI**, работаю с **SQLAlchemy**, **PostgreSQL**
+- 🤖 Автоматизирую рутину: парсинг файлов, выгрузка отчётов, интеграции
+- 🎮 Люблю сложные задачи: от ООП в играх до архитектуры микросервисов
+- 👯 Открыт к совместным проектам, стажировкам и тестовым заданиям
+- 📫 Связаться: [Telegram](https://t.me/igooner23) | [Email](mailto:dan.forth.ant@gmail.com)
 
 <br>
 
 <!-- Навыки и технологии (визуальные значки) -->
 ## 🛠️ Технологии и инструменты
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="margin: 10px;"/>
+  </a>
 </p>
 
 <br>
 
-<!-- Проекты, закреплённые в профиле (ссылки с вашей страницы) -->
-## 📌 Текущие проекты
+<!-- Что я ищу: помогает рекрутеру быстро оценить match -->
+## 🎯 Что меня интересует
 
-Вот что я сейчас делаю и изучаю. Нажмите на заголовок, чтобы перейти в репозиторий.
+| Параметр | Предпочтения |
+|----------|-------------|
+| **Позиция** | Junior Python / Backend Developer |
+| **Стек** | FastAPI, SQLAlchemy, PostgreSQL, Git, REST API |
+| **Задачи** | Разработка API, автоматизация, работа с данными, парсинг |
+| **Формат** | Удалённо / гибрид / СПб (офис) |
+| **Готовность** | К тестовому заданию, стажировке, полноценной роли |
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [**erp_fastapi**](https://github.com/danilov-dev/erp_fastapi) | Учебный ERP-бэкенд: пользователи, товары, заказы. | Python, FastAPI, SQLAlchemy |
-| [**MiniChat_fastapi**](https://github.com/danilov-dev/MiniChat_fastapi) | Простой чат на WebSockets с историей сообщений. | FastAPI, WebSockets, Jinja2 |
-| [**roguelike_demo**](https://github.com/danilov-dev/roguelike_demo) | Консольная roguelike-игра для отработки ООП и логики. | Python |
-| [**bettary_api**](https://github.com/danilov-dev/bettary_api) | API для мониторинга данных аккумуляторов (учебный). | Python, FastAPI |
-| [**media_plus**](https://github.com/danilov-dev/media_plus) | Небольшой фронтенд-проект для знакомства с JS. | JavaScript, HTML, CSS |
+<br>
+
+<!-- Проекты: с конкретикой и статусами -->
+## 📌 Проекты
+
+Ключевые работы, демонстрирующие мои навыки. Нажмите на название, чтобы увидеть код.
+
+| Проект | Описание | Стек | Статус |
+|--------|----------|------|--------|
+| [**MiniChat_fastapi**](https://github.com/danilov-dev/MiniChat_fastapi) | Чат в реальном времени: подключение через WebSocket, хранение истории сообщений, адаптивный интерфейс | FastAPI, WebSockets, Jinja2, SQLite | ✅ Работает |
+| [**erp_fastapi**](https://github.com/danilov-dev/erp_fastapi) | Бэкенд для управления заказами: регистрация, аутентификация JWT, CRUD товаров и заказов, фильтрация | FastAPI, SQLAlchemy, PostgreSQL, Pydantic | 🚧 В разработке |
+| [**roguelike_demo**](https://github.com/danilov-dev/roguelike_demo) | Генерация процедурных карт, система комнат, движение персонажа — отработка ООП и алгоритмов | Python, ООП, процедурная генерация | ✅ Работает |
+| [**bettary_api**](https://github.com/danilov-dev/bettary_api) | API для сбора и анализа данных с тестового оборудования: парсинг файлов, агрегация, экспорт отчётов | FastAPI, pandas, file I/O | 🧪 Тестовое демо |
+| [**media_plus**](https://github.com/danilov-dev/media_plus) | Фронтенд-проект для практики работы с DOM, событиями и модульной структурой на чистом JS | JavaScript, HTML5, CSS3 | ✅ Работает |
 
 > ⭐ **Больше проектов**: смотрите полный список в [моих репозиториях](https://github.com/danilov-dev?tab=repositories).
 
 <br>
 
-<!-- Статистика активности (можно добавить динамические картинки) -->
+<!-- Сейчас изучаю: показывает рост -->
+## 🌱 Сейчас изучаю
+
+- Асинхронные запросы и фоновые задачи в FastAPI (`BackgroundTasks`, `Celery`)
+- Паттерны проектирования: Repository, Dependency Injection, Unit of Work
+- Основы Docker: сборка образов, `docker-compose` для локальной разработки
+- Тестирование: `pytest`, моки, интеграционные тесты для API
+
+<br>
+
+<!-- Статистика активности (динамические картинки) -->
 ## 📊 Моя активность на GitHub
 
 <p align="center">
@@ -64,15 +106,18 @@
 
 <br>
 
-<!-- Фраза для поиска работы -->
-## 💼 Открыт для предложений
+<!-- Призыв к действию -->
+## 💼 Давайте работать вместе
 
-Я ищу позицию **Junior Python разработчика** (офис/удаленно). Если мои проекты вам интересны или вы хотите дать тестовое задание — свяжитесь со мной.
+Я ищу команду, где смогу применять свои навыки в разработке на Python, расти как инженер и приносить реальную пользу. 
 
-- Telegram: [ссылка на ваш Telegram]
-- Email: [ваша почта]
-- GitHub: [вы уже здесь]
+Если вам нужен разработчик, который:
+- ✅ Понимает, как работает код «в продакшене»
+- ✅ Умеет работать с данными и автоматизировать рутину
+- ✅ Быстро учится и не боится сложных задач
+
+— напишите мне, буду рад пообщаться! 🤝
 
 ---
 
-⭐️ *Этот README обновляется по мере моего развития. Спасибо, что заглянули!*
+> ⭐ *Этот README обновляется по мере моего развития. Спасибо, что заглянули!*
